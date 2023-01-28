@@ -26,6 +26,6 @@ print("{:.2f}".format(d))
 ```
 ### OUTPUT:
 ![output](/distance.png)
-S
+
 ### RESULT:
-end of the program
+program run successufully
